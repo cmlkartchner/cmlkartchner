@@ -1,5 +1,12 @@
-## Hi there 👋
+## About me
+Hello! My name is Clara Li Kartchner and I am a student game developer at Brigham Young University studying Computer Science with an emphasis in Animation. I have always loved video games and the power they have to connect people across language, geography, and culture, and strive to create similarly transcendent experiences. Currently, I am working on BYU's Center for Animation's 2025 video game capstone as a producer and game programmer in Unreal Engine 5. <!--TODO: add an ending sentence about skills or passions idk get feedback-->
 
+## My Github Projects
+### fission_fusion_v2
+Programmed as part of undergraduate research for Dr. Michael Goodrich's lab at BYU, this simulation demonstrates how herds of animals might find adequate feeding sites. The movement of each individual agent is determined by attraction toward members of their own group and repulsion from individuals outside of their group. The agents were originally programmed using a traditional finite state machine structure, but attempts were made to replicate their behavior using behavior trees. Research based on this simulation was presented at BYU's Student Research Conference in 2023 and 2024. Programmed in Python.
+
+### GE_SantaFe
+A collection of grammatical evolution utilities and a demo project, this repository was used to teach undergraduate researchers in Dr. Michael Goodrich's lab about grammatical evolution. Later, this project was used as the baseline for a sample project to solve the Santa Fe Trail problem using grammatical evolution. Programmed in Python.
 <!--
 **cmlkartchner/cmlkartchner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
