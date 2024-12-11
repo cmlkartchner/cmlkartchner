@@ -1,5 +1,5 @@
 ## About me
-Hello! My name is Clara Li Kartchner and I am a student game developer at Brigham Young University studying Computer Science with an emphasis in Animation. I have always loved video games and the power they have to connect people across language, geography, and culture, and strive to create similarly transcendent experiences. Currently, I am working on BYU's Center for Animation's 2025 video game capstone as a producer and game programmer in Unreal Engine 5. <!--TODO: add an ending sentence about skills or passions idk get feedback-->
+Hello! My name is Clara Li Kartchner and I am a student game developer at Brigham Young University studying Computer Science with an emphasis in Animation. I have always loved video games and the power they have to connect people across language, geography, and culture, and strive to create similarly transcendent experiences. I've done research at BYU's Human Centered Machine Intelligence (HCMI) Lab for 2 years studying swarm behavior simulation and have presented at student research conferences in 2023 and 2024. Currently, I am working on BYU's Center for Animation's 2025 video game capstone as a producer and game programmer using Unreal Engine 5. I am excited to keep learning and creating new experiences for people to enjoy! <!--TODO: add an ending sentence about skills or passions idk get feedback-->
 
 ## My Github Projects
 ### fission_fusion_v2
@@ -7,6 +7,9 @@ Programmed as part of undergraduate research for Dr. Michael Goodrich's lab at B
 
 ### GE_SantaFe
 A collection of grammatical evolution utilities and a demo project, this repository was used to teach undergraduate researchers in Dr. Michael Goodrich's lab about grammatical evolution. Later, this project was used as the baseline for a sample project to solve the Santa Fe Trail problem using grammatical evolution. Programmed in Python.
+
+## Contact Me
+Want to chat? You can find me on [LinkedIn](https://www.linkedin.com/in/clara-li-kartchner-1b1000296/) or [contact me directly via email](mailto:clara.mengyu.li01@gmail.com).
 <!--
 **cmlkartchner/cmlkartchner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
